@@ -1,10 +1,8 @@
 {
-    "editor.fontFamily": "'JetBrains Maple Mono', 'Source Han Sans', Consolas, 'Courier New', monospace",
-    "editor.fontSize": 16,
-    "editor.wordSegmenterLocales": [
-        "zh-CN"
-    ],
-    "markdown.styles": [
-        ".vscode/markdown-preview-style.css"
-    ]
+	"[markdown]": {
+		"editor.fontFamily": "'JetBrains Maple Mono', 'Source Han Sans', Consolas, 'Courier New', monospace",
+		"editor.fontSize": 16,
+		"editor.wordSegmenterLocales": ["zh-CN"]
+	},
+	"markdown.styles": [".vscode/markdown-preview-style.css"]
 }
