@@ -1,0 +1,28 @@
+/* 突出加粗 */
+strong, b {
+    font-weight: 900 !important;
+}
+
+/* 在标题前显示 '#' 用来提示层级 */
+h1::before {
+    content: "#";
+}
+h2::before {
+    content: "##";
+}
+h3::before {
+    content: "###";
+}
+h4::before {
+    content: "####";
+}
+h1::before,
+h2::before,
+h3::before,
+h4::before {
+    color: #A0A0A0;
+    font-size: 0.85em;
+    margin-right: 0.35em;
+    font-weight: normal;
+    user-select: none;
+}

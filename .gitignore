@@ -1,0 +1,6 @@
+
+# don't upload drafts
+/draft
+
+# no rebased
+/.idea
