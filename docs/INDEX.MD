@@ -1,18 +1,18 @@
 # 限流器大全
 
-大全真的大全吗？肯定不是，也会有我不知道的东西。欢迎有愿意开源的高手，在符合[贡献指南](CONTRIBUTING.MD)的情况下，帮助这个大全变得更全。
+大全真的大全吗？肯定不是，也会有我不知道的东西。欢迎有愿意开源的高手，在符合贡献指南的情况下，帮助这个大全变得更全。
 
-|           目录           |                         |                        |                          |
-| :---------------------: | :---------------------: | :--------------------: | :----------------------: |
-|    [通用内容](#一般)    |                         |                        |                          |
-|          RAID           |
-|   [遗愿](level/LW.MD)   |  [花园](level/GOS.MD)   |  [地窖](level/DSC.MD)  |   [宝库](level/VOG.MD)   |
-|  [门徒](level/VOTD.MD)  |   [王陨](level/KF.MD)   |  [梦魇](level/RON.MD)  |  [克洛塔](level/CE.MD)   |
-| [救赎边缘](level/SE.MD) |   [沙漠](level/DP.MD)   | [万神殿](level/PAN.MD) |
-|          地牢           |
-|   [王座](level/ST.MD)   |  [深坑](level/PIT.MD)   |  [预言](level/PRO.MD)  | [贪婪之握](level/GOA.MD) |
-| [二相性](level/DUAL.MD) | [尖塔](level/SPIRE.MD)  |  [机灵](level/GOD.MD)  |   [废墟](level/WR.MD)    |
-|   [晚星](level/VH.MD)   | [分离教义](level/SD.MD) |  [平衡](level/EQ.MD)   |
+|         目录         |                      |                     |                       |
+| :------------------: | :------------------: | :-----------------: | :-------------------: |
+|  [通用内容](#一般)   |                      |                     |                       |
+|         RAID         |
+|   [遗愿](level/LW)   |  [花园](level/GOS)   |  [地窖](level/DSC)  |   [宝库](level/VOG)   |
+|  [门徒](level/VOTD)  |   [王陨](level/KF)   |  [梦魇](level/RON)  |  [克洛塔](level/CE)   |
+| [救赎边缘](level/SE) |   [沙漠](level/DP)   | [万神殿](level/PAN) |
+|         地牢         |
+|   [王座](level/ST)   |  [深坑](level/PIT)   |  [预言](level/PRO)  | [贪婪之握](level/GOA) |
+| [二相性](level/DUAL) | [尖塔](level/SPIRE)  |  [机灵](level/GOD)  |   [废墟](level/WR)    |
+|   [晚星](level/VH)   | [分离教义](level/SD) |  [平衡](level/EQ)   |
 
 这些文章以[《署名—非商业性使用—禁止演绎 4.0 协议国际版》](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)开源，您可以自由地共享，同时惟须遵守下列条件：署名，非商业性使用，禁止演绎。
 
@@ -56,8 +56,6 @@ U = Upload = 上传
   - 大部分关卡机制物体
     - *尖塔节点*
     - *花园继电器*
-
-<!-- TODO 维护一个完整的列表？ -->
 
 操作方法如下。
 
