@@ -2,17 +2,17 @@
 
 大全真的大全吗？肯定不是，也会有我不知道的东西。欢迎有愿意开源的高手，在符合贡献指南的情况下，帮助这个大全变得更全。
 
-|         目录         |                      |                     |                       |
-| :------------------: | :------------------: | :-----------------: | :-------------------: |
-|  [通用内容](#一般)   |                      |                     |                       |
-|         RAID         |
-|   [遗愿](level/LW)   |  [花园](level/GOS)   |  [地窖](level/DSC)  |   [宝库](level/VOG)   |
-|  [门徒](level/VOTD)  |   [王陨](level/KF)   |  [梦魇](level/RON)  |  [克洛塔](level/CE)   |
-| [救赎边缘](level/SE) |   [沙漠](level/DP)   | [万神殿](level/PAN) |
-|         地牢         |
-|   [王座](level/ST)   |  [深坑](level/PIT)   |  [预言](level/PRO)  | [贪婪之握](level/GOA) |
-| [二相性](level/DUAL) | [尖塔](level/SPIRE)  |  [机灵](level/GOD)  |   [废墟](level/WR)    |
-|   [晚星](level/VH)   | [分离教义](level/SD) |  [平衡](level/EQ)   |
+|          目录          |                        |                       |                         |
+| :--------------------: | :--------------------: | :-------------------: | :---------------------: |
+|   [通用内容](#一般)    |                        |                       |                         |
+|          RAID          |
+|   [遗愿](./level/lw)   |  [花园](./level/gos)   |  [地窖](./level/dsc)  |   [宝库](./level/vog)   |
+|  [门徒](./level/votd)  |   [王陨](./level/kf)   |  [梦魇](./level/ron)  |  [克洛塔](./level/ce)   |
+| [救赎边缘](./level/se) |   [沙漠](./level/dp)   | [万神殿](./level/pan) |
+|          地牢          |
+|   [王座](./level/st)   |  [深坑](./level/pit)   |  [预言](./level/pro)  | [贪婪之握](./level/goa) |
+| [二相性](./level/dual) | [尖塔](./level/spire)  |  [机灵](./level/god)  |   [废墟](./level/wr)    |
+|   [晚星](./level/vh)   | [分离教义](./level/sd) |  [平衡](./level/eq)   |
 
 这些文章以[《署名—非商业性使用—禁止演绎 4.0 协议国际版》](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)开源，您可以自由地共享，同时惟须遵守下列条件：署名，非商业性使用，禁止演绎。
 
